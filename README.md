@@ -1,2 +1,3 @@
 # 1988-MCM-B-Packing-Railroad-Flatcars
-1988 MCM B: Packing Railroad Flatcars
+
+Two railroad flatcars are to be loaded with seven types of packing crates. The crates have the same width and height but varying thickness (t, in cm) and weight (w, in kg). Table 1 gives, for each crate, the thickness, weight, and number available [table omitted]. Each car has 10.2 meters of length available for packing the crates (like slices of toast) and can carry up to 40 metric tons. There is a special constraint on the total number of C_5, C_6, and C_7 crates because of a subsequent local trucking restriction: The total space (thickness) occupied by these crates must not exceed 302.7 cm. Load the two flatcars (see Figure 1) so as to minimize the wasted floor space [figure omitted]. 
